@@ -1,0 +1,2 @@
+sora 400, 600
+Poppins italic 300, 500, 600, 700
