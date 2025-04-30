@@ -62,3 +62,29 @@
     src: url('../fonts/poppins-v23-latin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
          url('../fonts/poppins-v23-latin-700.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
   }
+
+
+/* navbar start */
+
+.my_nav {
+     background: #F2F7FF;
+
+}
+.my_btn {
+     background: linear-gradient(to right, #3A8EF6, #6F3AFA);
+     background-size: 200% 100%;
+     background-position: left center;
+     padding: 12px 28px;
+     border-radius: 100px;
+     color: #fff;
+     text-decoration: none;
+     transition: background-position 0.5s;
+     font-family: 'Sora';
+     font-weight: 600;
+     font-size: 18px;
+}
+
+.my_btn:hover {
+     background-position: right center;
+}
+/* navbar end */
