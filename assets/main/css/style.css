@@ -99,3 +99,29 @@
      color: #3A8EF6 !important;
 }
 /* navbar end */
+
+/* ---------------- Home Section Begin ---------------- */
+.home {
+     background: #F2F7FF;
+}
+.dr_name {
+     font-family: 'Poppins';
+     font-weight: 500;
+     font-size: 22px;
+     color: #00BFA5;
+}
+
+.home_title {
+     font-family: 'Poppins';
+     font-weight: 700;
+     font-size: 48px;
+     color: #031432;
+}
+
+.d_text {
+     font-family: 'Sora';
+     font-weight: 400;
+     font-size: 16px;
+     color: #6C87AE;
+}
+/* ---------------- Home Section End ---------------- */
