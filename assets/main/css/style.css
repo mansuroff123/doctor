@@ -124,4 +124,27 @@
      font-size: 16px;
      color: #6C87AE;
 }
+/* explore cards start */
+.sm_card {
+     background: linear-gradient(to bottom, #1678F2, #65A8FB);
+     border-radius: 12px;
+     padding: 8px 18px;
+     max-width: 258px;
+}
+.sm_card_title {
+     font-family: 'Sora';
+     font-weight: 600;
+     font-size: 18px;
+     color: #fff;
+}
+
+.sm_card_text {
+     font-family: 'Sora';
+     font-weight: 400;
+     font-size: 12px;
+     color: #D6E7FD;
+}
+/* explore cards end */
+
+
 /* ---------------- Home Section End ---------------- */
