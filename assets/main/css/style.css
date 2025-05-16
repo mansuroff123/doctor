@@ -68,7 +68,7 @@
 
 .my_nav {
      background: #F2F7FF;
-
+     border-radius: 32px 32px 0 0;
 }
 .my_btn {
      background: linear-gradient(to right, #3A8EF6, #6F3AFA);
@@ -82,6 +82,7 @@
      font-family: 'Sora';
      font-weight: 600;
      font-size: 18px;
+     box-shadow: 0px 8px 23px 0px #4184F73D;
 }
 
 .my_btn:hover {
@@ -103,6 +104,7 @@
 /* ---------------- Home Section Begin ---------------- */
 .home {
      background: #F2F7FF;
+     border-radius: 0 0 32px 32px;
 }
 .dr_name {
      font-family: 'Poppins';
@@ -125,11 +127,18 @@
      color: #6C87AE;
 }
 /* explore cards start */
+.sm_cards {
+     margin-top: -35px !important;
+}
 .sm_card {
      background: linear-gradient(to bottom, #1678F2, #65A8FB);
      border-radius: 12px;
      padding: 8px 18px;
      max-width: 258px;
+}
+
+.lg_card {
+     max-width: 295px;
 }
 .sm_card_title {
      font-family: 'Sora';
@@ -148,3 +157,13 @@
 
 
 /* ---------------- Home Section End ---------------- */
+
+
+
+
+
+@media screen and (max-width: 768px) {
+     .sm_cards {
+          margin-top: 0px !important;
+     }
+}
