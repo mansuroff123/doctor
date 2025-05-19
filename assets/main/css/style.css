@@ -63,6 +63,13 @@
          url('../fonts/poppins-v23-latin-700.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
   }
 
+:root {
+     --bg-gray: #F2F7FF;
+}
+
+.bg_gray {
+     background: var(--bg-gray);
+}
 
 /* navbar start */
 
@@ -157,6 +164,41 @@
 
 
 /* ---------------- Home Section End ---------------- */
+
+/* ---------------- About Section Begin ---------------- */
+.d_title {
+     font-family: 'Poppins';
+     font-weight: 600;
+     font-size: 32px;
+     color: #031432;
+     line-height: 150%;
+}
+
+
+/* ---------------- About Section End ---------------- */
+
+
+/* ---------------- Cards Section Begin ---------------- */
+.my_card {
+     max-width: 346px;
+     border-radius: 24px;
+     padding: 32px;
+     box-shadow: 0px 24px 32px -3px #0309320A;
+     background: #fff;
+}
+.card_title {
+     font-family: 'Poppins';
+     font-weight: 500;
+     font-size: 24px;
+     color: #000;
+}
+.card_text {
+     font-family: 'Sora';
+     font-weight: 400;
+     font-size: 14px;
+     color: #6C87AE;
+}
+/* ---------------- Cards Section End ---------------- */
 
 
 
