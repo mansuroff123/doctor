@@ -198,6 +198,10 @@
      font-size: 14px;
      color: #6C87AE;
 }
+
+.my_card .my_btn {
+     padding: 12px 20px;
+}
 /* ---------------- Cards Section End ---------------- */
 
 
