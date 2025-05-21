@@ -206,6 +206,17 @@
 
 
 
+/* ---------------- Blue Card Section Begin ---------------- */
+.blue_card {
+     background: linear-gradient(145.08deg, #1678F2 3.73%, #65A8FB 132.69%);
+     padding: 64px 100px;
+     border-radius: 32px;
+
+}
+/* ---------------- Blue Card Section End ---------------- */
+
+
+
 
 
 @media screen and (max-width: 768px) {
