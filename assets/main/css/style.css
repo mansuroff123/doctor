@@ -211,9 +211,38 @@
      background: linear-gradient(145.08deg, #1678F2 3.73%, #65A8FB 132.69%);
      padding: 64px 100px;
      border-radius: 32px;
+}
 
+.light_btn {
+     background: #fff;
+     padding: 12px 28px;
+     border-radius: 100px;
+     color: #3A8EF6;
+     text-decoration: none;
+     font-family: 'Sora';
+     font-weight: 600;
+     font-size: 18px;
+     box-shadow: 0px 8px 23px 0px #4184F73D;
+     transition: .5s;
+}
+.light_btn:hover {
+     background: #e7e7e7;
+}
+
+.res_text {
+     width: 60%;
 }
 /* ---------------- Blue Card Section End ---------------- */
+
+
+/* ---------------- Feedback Card Section Begin ---------------- */
+.feedback_card {
+     background: #fff;
+     max-width: 470px;
+     padding: 18px 28px;
+     border-radius: 32px;
+}
+/* ---------------- Feedback Card Section End ---------------- */
 
 
 
