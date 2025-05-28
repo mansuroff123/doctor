@@ -265,6 +265,38 @@
 /* ---------------- Feedback Card Section End ---------------- */
 
 
+/* ---------------- Footer Section Begin ---------------- */
+footer {
+     background: #1678F2;
+}
+
+.footer_text {
+     font-family: 'Poppins';
+     font-weight: 300;
+     font-style: italic;
+     font-size: 16px;
+     color: #fff;
+}
+.footer_title {
+     font-family: Poppins;
+     font-weight: 600;
+     font-size: 20px;
+     color: #fff;
+}
+.footer_link {
+     font-family: Sora;
+     font-weight: 400;
+     font-size: 16px;
+     color: #D0E4FC;
+     text-decoration: none;
+}
+.footer_link:hover {
+     color: #fff;
+}
+
+/* ---------------- Footer Section End ---------------- */
+
+
 
 
 
