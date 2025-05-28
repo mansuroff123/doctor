@@ -242,6 +242,26 @@
      padding: 18px 28px;
      border-radius: 32px;
 }
+.feedback_text {
+     font-family: 'Poppins';
+     font-weight: 300;
+     font-style: italic;
+     font-size: 16px;
+     color: #031432;
+}
+
+.feedback_author {
+     font-family: 'Poppins';
+     font-weight: 500;
+     font-size: 18px;
+     color: #00BFA5;
+}
+.feedback_category {
+     font-family: 'Sora';
+     font-weight: 400;
+     font-size: 12px;
+     color: #6C87AE;
+}
 /* ---------------- Feedback Card Section End ---------------- */
 
 
