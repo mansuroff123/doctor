@@ -76,6 +76,8 @@
 .my_nav {
      background: #F2F7FF;
      border-radius: 32px 32px 0 0;
+     position: sticky;
+     top: 0;
 }
 .my_btn {
      background: linear-gradient(to right, #3A8EF6, #6F3AFA);
@@ -101,6 +103,9 @@
      font-size: 16px;
      font-weight: 400;
      color: #6C87AE;
+}
+.my_nav .nav-link:hover {
+     color: #333;
 }
 
 .my_nav .active {
