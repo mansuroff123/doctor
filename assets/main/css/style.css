@@ -319,4 +319,7 @@ footer {
      .sm_cards {
           margin-top: 0px !important;
      }
+     .blue_card {
+          padding: 24px 30px;
+     }
 }
