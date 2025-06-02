@@ -78,6 +78,7 @@
      border-radius: 32px 32px 0 0;
      position: sticky;
      top: 0;
+     z-index: 999;
 }
 .my_btn {
      background: linear-gradient(to right, #3A8EF6, #6F3AFA);
